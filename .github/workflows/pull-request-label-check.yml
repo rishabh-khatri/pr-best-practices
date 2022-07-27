@@ -13,5 +13,5 @@ jobs:
         with:
           mode: minimum
           count: 1
-          labels: "Bugfix, New Feature, Feature Enhancement"
+          labels: "bug, new feature, enhancement"
           exit_type: failure
